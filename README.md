@@ -2,7 +2,7 @@
 A repository to document my Python learning journey
 
 # About Me
-`Hello everyone, my name is Justine I have been programming since I was 13, and I enjoy working with Node.js and React.js. My goal is to pursue a degree in the field of computer science. I am enrolled in this class to earn the necessary credits needed for my degree.`
+`Hey there, I'm Justine. I've been into programming since I was 13, and I really enjoy working with Node.js and React.js. I'm aiming to get a degree in computer science. For this course, I just want to deepen my knowledge in the field. I've always had a passion for coding because it offers some of the best puzzles to solve, and that's a big part of why I love programming.`
 
 # First Code Block
 
